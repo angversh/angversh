@@ -1,10 +1,9 @@
 <h1 align="center">Computer Science HSE Student</h1>
-<h3 align="center">Angelina Vershinina</h3>
 <p align="center"><img src="https://github.com/angversh/angversh/blob/main/me.gif" width="260" height="200"/></p>
 <h1 align="left">Info:</h1>
 
 <h3>
-    Hey yo, I'm a passionate Junior Java & Front-end Developer.
+    Hey yo, I'm a passionate Junior Java & Game Developer.
 </h3>
 
 <h3> 
@@ -17,7 +16,7 @@
 <h5> &emsp;&ensp;•&emsp; Creating GREAT desings! ⚡</h5>     
 <h5> &emsp;&ensp;&emsp;</h5>        
   
-Exactly! Who am I? Do we live in a simulation? Hahahah, just kidding.
+Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
     
 <p>
   <img align="left" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif">
@@ -34,12 +33,12 @@ Write clean codes. Period. A clean code always looks like it was written by some
     
 ---
 <p>
-  <img align="right" alt="GIF" width="280" height="180" src="https://github.com/angversh/angversh/blob/main/futuregoals.gif">
+  <img align="right" alt="GIF" width="255" height="160" src="https://github.com/angversh/angversh/blob/main/futuregoals.gif">
 </p>
     
 ### Future Goals:
 
-I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and bewitched by the Beta! I have been practicing in creating 3D models in UE4 as well as in Blender. Consider  creating a game in Cyberpunk style. 
+I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and bewitched by the Beta! I have been practicing in creating 3D models in UE4 as well as in Blender for a year and considering creating a game in Cyberpunk style. Sure thing, it requires advanced skills in C++, so that is what I pour all of my heart and soul into. 
     
 <!--<h2>
     Instruments
