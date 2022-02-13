@@ -38,7 +38,7 @@ Write clean codes. Period. A clean code always looks like it was written by some
     
 ### Future Goals:
 
-I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and bewitched by the Beta! I have been practicing in creating 3D models in UE4 as well as in Blender for a year and considering creating a game in Cyberpunk style. Sure thing, it requires advanced skills in C++, so that is what I pour all of my heart and soul into. 
+I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and bewitched by the Beta! I have been practicing in creating 3D models in UE4 as well as in Blender for a year and considering creating a game in Cyberpunk style. Sure thing, it requires advanced skills in C++, so that is what I pour all of my heart and soul into. As Albert Einstein once said: “Imagination is more important than knowledge”, I do my best in making creative and recognizable projects (Fun Fact: I'm a Graphic Desigher too).
     
 <!--<h2>
     Instruments
