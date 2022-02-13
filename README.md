@@ -1,25 +1,72 @@
-<h1
-    align="center">Computer Science HSE Student 
-</h1>
-<h3 
-    align="center">Angelina Vershinina 
+<h1 align="center">Computer Science HSE Student</h1>
+<h3 align="center">Angelina Vershinina</h3>
+<p align="center"><img src="https://github.com/angversh/angversh/blob/main/me.gif" width="260" height="200"/></p>
+<h1 align="left">Info:</h1>
+
+<h3>
+    Hey yo, I'm a passionate Junior Java & Front-end Developer.
 </h3>
 
-<p align="center">
-  <img src="https://github.com/angversh/angversh/blob/main/me.gif"
-       width="260" height="200"
-       />
+<h3> 
+    Working on:
+</h3>
+<!--<img align="right" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif" />  -->
+<h5> &emsp;&ensp;•&emsp; P&D 'Applications of Game Engine technologies' 📚</h5>
+<h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾<h5>
+<h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5> 
+<h5> &emsp;&ensp;•&emsp; Creating GREAT desings! ⚡</h5>     
+<h5> &emsp;&ensp;&emsp;</h5>        
+  
+Exactly! Who am I? Do we live in a simulation? Hahahah, just kidding.
+    
+<p>
+  <img align="left" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif">
 </p>
-<div id="over" style="position:absolute; width:100%; height:100%">
-  <a href="https://stackoverflow.com/users/17482481/angversh"><img src="stackoverflow.png" style="width:2em; height:2em;"/> </a> 
-</div>
-<div id="over" style="position:absolute; width:100%; height:100%">
-  <img src="http://www.garcard.com/images/garcard_symbol.png">
-</div>
-<h4
-    align="left">Computer Science HSE Student 
-</h4>
-<img src="java .png" style="width:2em; height:2em; hspace="20""/>
+
+---
+    
+### Ideology:
+   
+Write clean codes. Period. A clean code always looks like it was written by someone who cares. As developers we have to make sure that it's readable so that others could maintain our modules. So here are my 3 clean code postulates:
+	1. Clean code is simple and direct, and it reads like well-written prose.
+	2. The only way to go fast is to go slow.
+	3. Сlean code does one thing well.
+    
+---
+<p>
+  <img align="right" alt="GIF" width="280" height="180" src="https://github.com/angversh/angversh/blob/main/futuregoals.gif">
+</p>
+    
+### Future Goals:
+
+I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and bewitched by the Beta! I have been practicing in creating 3D models in UE4 as well as in Blender. Consider  creating a game in Cyberpunk style. 
+    
+<!--<h2>
+    Instruments
+</h2>
+    <a href="https://stackoverflow.com/users/17482481/angversh">
+<h3 
+    align="left">StackOverFlow
+</h3>   
+        <img src="stackoverflow.png" style="width:3em; height:3em;"/>
+</a>
+<h2></h2>
+</h2>
+<h3 
+    align="left">Pandas
+</h3> 
+<a>
+    <img src="pandas.png" style="width:3em; height:3em;"/>
+</a>
+<h2></h2>
+<h3 
+    align="left">Unreal Engine
+</h3> 
+<a><img src="ue.png" style="width:3em; height:3em;"/></a>
+    
+<h1 style="width:0em; height:0em;"/></h1>
+<a target="_blank" rel="noopener noreferrer" href="https://www.oracle.com/java/"><img src="java .png" style="width:3em; height:3em;"/></a>
+<a><img src="python.png" style="width:2em; height:2em;"/></a> -->
 
 
 
