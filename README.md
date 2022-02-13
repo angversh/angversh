@@ -48,7 +48,7 @@ I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and be
 ### Aspiration:
 ---
 
-Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience I would love to make something astonishing and highly memorable. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
+Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
     
 <!--<h2>
     Instruments
