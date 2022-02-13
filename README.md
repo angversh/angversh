@@ -1,5 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F179A5&lines=Computer+Science+HSE+Student+✨)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src=https://readme-typing-svg.herokuapp.com?color=%23F179A5&lines=Computer+Science+HSE+Student+✨
+       />
+</p>
+<p align="center">
+  <img src="https://github.com/angversh/angversh/blob/main/this%20page%20is....gif"
+       />
+</p>
 <!--### Hi there 👋
 
 **angversh/angversh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
