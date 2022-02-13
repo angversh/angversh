@@ -26,7 +26,7 @@ Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
     
 ### Ideology:
    
-Write clean codes. Period. A clean code always looks like it was written by someone who cares. As developers we have to make sure that it's readable so that others could maintain our modules. So here are my 3 clean code postulates:
+Write clean codes. Period. A clean code always looks like it was written by sb who cares. As developers we have to make sure that it's readable so that others could maintain our modules. So here are my 3 clean code postulates:
 	1. Clean code is simple and direct, and it reads like well-written prose.
 	2. The only way to go fast is to go slow.
 	3. Сlean code does one thing well.
@@ -39,6 +39,16 @@ Write clean codes. Period. A clean code always looks like it was written by some
 ### Future Goals:
 
 I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and bewitched by the Beta! I have been practicing in creating 3D models in UE4 as well as in Blender for a year and considering creating a game in Cyberpunk style. It requires advanced skills in C++, so that is what I pour my heart and soul into. As Albert Einstein once said: “Imagination is more important than knowledge”, I do my best in making creative and recognizable projects (Fun Fact: I'm a Graphic Desigher too).
+
+---
+<p>
+  <img align="left" alt="GIF" width="230" height="190" src="https://github.com/angversh/angversh/blob/main/aspiration.gif">
+</p>
+
+### Aspiration:
+---
+
+Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience I would love to make something astonishing and highly memorable. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
     
 <!--<h2>
     Instruments
