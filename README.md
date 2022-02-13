@@ -1,9 +1,11 @@
-<p align="center">
-  <img src=https://readme-typing-svg.herokuapp.com?color=%23F179A5&lines=Computer+Science+HSE+Student+✨
+<h1 align="center">Computer Science HSE Student</h1>
+<!--<p align="center">
+  <img src=https://readme-typing-svg.herokuapp.com?color=%23F1F1F1&lines=Computer+Science+HSE+Student+ height="100"
        />
-</p>
+</p> -->
 <p align="center">
-  <img src="https://github.com/angversh/angversh/blob/main/this%20page%20is....gif"
+  <img src="https://github.com/angversh/angversh/blob/main/me.gif"
+       width="260" height="200"
        />
 </p>
 <!--### Hi there 👋
