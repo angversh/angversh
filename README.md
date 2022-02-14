@@ -42,13 +42,13 @@ I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and be
 
 ---
 <p>
-  <img align="left" alt="GIF" width="230" height="190" src="https://github.com/angversh/angversh/blob/main/aspiration.gif">
+  <img align="left" alt="GIF" width="230" height="200" src="https://github.com/angversh/angversh/blob/main/aspiration.gif">
 </p>
 
 ### Aspiration:
 ---
 
-Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
+Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. Fun fact: I even tried debugging other people's games 😅. I can talk for hours about the technologies behind GTA V, Cyberpunk, FarCry and Red Dead Redemption II. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
     
 <!--<h2>
     Instruments
@@ -97,18 +97,4 @@ Genuis lies in simplicity — I thirst for making an impact on Game Development.
   <img src=https://readme-typing-svg.herokuapp.com?color=%23F1F1F1&lines=Computer+Science+HSE+Student+ height="100"
        />
 </p> --> 
-<!--### Hi there 👋
 
-**angversh/angversh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
