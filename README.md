@@ -48,52 +48,9 @@ I aspire to create an app in Unreal Engine 5. I was absolutely mesmorized and be
 ### Aspiration:
 ---
 
-Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. I can talk for hours about the technologies behind GTA V, Cyberpunk, FarCry and Red Dead Redemption II. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
-    
-<!--<h2>
-    Instruments
-</h2>
-    <a href="https://stackoverflow.com/users/17482481/angversh">
-<h3 
-    align="left">StackOverFlow
-</h3>   
-        <img src="stackoverflow.png" style="width:3em; height:3em;"/>
-</a>
-<h2></h2>
-</h2>
-<h3 
-    align="left">Pandas
-</h3> 
-<a>
-    <img src="pandas.png" style="width:3em; height:3em;"/>
-</a>
-<h2></h2>
-<h3 
-    align="left">Unreal Engine
-</h3> 
-<a><img src="ue.png" style="width:3em; height:3em;"/></a>
-    
-<h1 style="width:0em; height:0em;"/></h1>
-<a target="_blank" rel="noopener noreferrer" href="https://www.oracle.com/java/"><img src="java .png" style="width:3em; height:3em;"/></a>
-<a><img src="python.png" style="width:2em; height:2em;"/></a> -->
+Genuis lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. I can talk for hours about the technologies behind GTA V, Cyberpunk, FarCry and Red Dead Redemption II. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.   
 
-
-
-
-<!--![Stack Overflow[(https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17482481/angversh)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angversh)](https://github.com/angversh/github-readme-stats)
-[![Stack Overflow](https://github.com/angversh/angversh/blob/main/stackoverflow.png)](https://stackoverflow.com/users/17482481/angversh) -->
-
-<!--angversh: {
-    title_color: "ffffff",
-    icon_color: "f179a5",
-    text_color: "ffffff",
-    bg_color: "0d1117",
-    border_color: "b3e4f6",
-  }, 
-
-<!--<p align="center">
+<!-- <p align="center">
   <img src=https://readme-typing-svg.herokuapp.com?color=%23F1F1F1&lines=Computer+Science+HSE+Student+ height="100"
        />
 </p> --> 
