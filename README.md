@@ -16,7 +16,7 @@
     Working on:
 </h3>
 <!--<img align="right" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif" />  -->
-<h5> &emsp;&ensp;•&emsp; P&D 'Applications of Game Engine technologies' 📚</h5>
+<h5> &emsp;&ensp;•&emsp; P&D 'Applications of Game Engine technologies' 📚 Status: Done </h5>
 <h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
 <h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
 <h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
