@@ -15,13 +15,26 @@
 <h3>
     Working on:
 </h3>
-<!--<img align="right" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif" />  -->
+
 <h5> &emsp;&ensp;•&emsp; P&D 'Applications of Game Engine technologies' Status: Done 📚</h5>
+<h5> &emsp;&ensp;•&emsp; Learning Unreal Engine 5 and Blender ⌨</h5>
 <h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
 <h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
 <h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
 <h5> &emsp;&ensp;&emsp;</h5>
+	
+<h3>
+    Articles about me:
+</h3>
+<p>&emsp;&ensp;•&emsp;
+<a style= target="_blank" href="https://www.hse.ru/en/news/edu/567784203.html"">HSE Faculty of Computer Science Organises Its First Software Engineering Winter School</a>
+</p>										  
+<p>&emsp;&ensp;•&emsp;
+<a style= target="_blank" href="https://nnov.hse.ru/human/linguistics/news/575948585.html"> HSE Student conference "Young Researchers in Science: Challenges and Prospects"</a>
+</p>
 
+<h1></h1>
+										  										  
 Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
 
 <p>
