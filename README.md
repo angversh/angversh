@@ -26,7 +26,7 @@
 	
 <h3>
     Articles about me:
-</h3>
+</h3> 
 <p>&emsp;&ensp;•&emsp;
 <a style= target="_blank" href="https://www.hse.ru/en/news/edu/567784203.html">HSE Faculty of Computer Science Organises Its First Software Engineering Winter School</a>
 </p>										  
@@ -40,7 +40,7 @@ Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
 
 <p>
   <img align="left" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif">
-</p>
+</p> 
 
 ---
 
@@ -53,7 +53,7 @@ Write clean codes. Period. A clean code always looks like it was written by sb w
 
 ---
 <p>
-  <img align="right" alt="GIF" width="280" height="180" src="https://github.com/angversh/angversh/blob/main/futuregoals.gif">
+  <img align="right" alt="GIF" width="330" height="200" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true">
 </p>
 
 ### Future Goals:
