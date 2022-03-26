@@ -53,7 +53,7 @@ Write clean codes. Period. A clean code always looks like it was written by sb w
 
 ---
 <p>
-  <img align="right" alt="GIF" width="355" height="180" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true">
+  <img align="right" alt="GIF" width="350" height="170" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true">
 </p>
 
 ### Future Goals:
