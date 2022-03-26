@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1 align="center">Computer Science HSE Student</h1> 
-<p align="center"><img src="https://github.com/angversh/angversh/blob/main/angversh_animoji.gif?raw=true" width="561" height="387" alt=""/></p>
+<p align="center"><img src="https://github.com/angversh/angversh/blob/main/baddy.gif?raw=true" width="407" height="305" alt=""/></p>
 <!-- <p align="center"><img src="https://github.com/angversh/angversh/blob/main/me.gif" width="260" height="200" alt=""/></p> -->
 <h1 align="center">Info:</h1>
 
