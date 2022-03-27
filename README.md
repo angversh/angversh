@@ -18,9 +18,9 @@
 </h3>
 
 <h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Fintech 💸</h5>
-<h5> &emsp;&ensp;•&emsp; Learning Unreal Engine 5 and Blender ⌨</h5>
-<h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
+<h5> &emsp;&ensp;•&emsp; Speaker of HSE Aet & Design School 👩‍🎨</h5>
 <h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
+<h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
 <h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
 <h5> &emsp;&ensp;&emsp;</h5>
 	
