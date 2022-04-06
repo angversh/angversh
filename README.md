@@ -18,7 +18,6 @@
 </h3>
 
 <h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Fintech 💸</h5>
-<h5> &emsp;&ensp;•&emsp; Speaker of HSE Aet & Design School 👩‍🎨</h5>
 <h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
 <h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
 <h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
@@ -58,7 +57,7 @@ Write clean codes. Period. A clean code always looks like it was written by sb w
 
 ### Future Goals:
 
-I aspire to create an app in Unreal Engine 5. I was absolutely memorized and bewitched by the Beta! I have been practicing in creating 3D models in UE5 Early Access and in Blender for a year and considering creating a game in Cyberpunk style. It requires advanced skills in C++, so that is what I pour my heart and soul into. As Albert Einstein once said: “Imagination is more important than knowledge”, I do my best in making creative and recognizable projects (Fun Fact: I'm a Graphic Designer too).
+I aspire to create an app in Unreal Engine 5. I have been practicing in creating 3D models in UE5 Early Access and in Blender for a year and considering creating a game in Cyberpunk style. It requires advanced skills in C++, so that is what I pour my heart and soul into. As Albert Einstein once said: “Imagination is more important than knowledge”, I do my best in making creative and recognizable projects (Fun Fact: I'm a Graphic Designer too).
 
 ---
 <p>
