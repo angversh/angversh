@@ -33,7 +33,7 @@
 Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
 
 <p>
-  <img align="left" alt="GIF" width="240" height="180" src="https://github.com/angversh/angversh/blob/main/mysteriousme.gif">
+  <img align="left" alt="GIF" width="360" height="200" src="https://github.com/angversh/angversh/blob/main/amazedcutie.gif?raw=true">
 </p> 
 
 ---
@@ -47,7 +47,7 @@ Write clean codes. Period. A clean code always looks like it was written by sb w
 
 ---
 <p>
-  <img align="right" alt="GIF" width="350" height="170" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true">
+  <img align="right" alt="GIF" width="360" height="170" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true">
 </p>
 
 ### Future Goals:
@@ -56,7 +56,7 @@ I aspire to create an app in Unreal Engine 5. I have been practicing in creating
 
 ---
 <p>
-  <img align="left" alt="GIF" width="230" height="200" src="https://github.com/angversh/angversh/blob/main/aspiration.gif">
+  <img align="left" alt="GIF" width="300" height="250" src="https://github.com/angversh/angversh/blob/main/grinningbaddy.gif?raw=true">
 </p>
 
 ### Aspiration:
