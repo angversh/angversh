@@ -12,7 +12,7 @@
     Working on:
 </h3>
 
-<h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Fintech 💸</h5>
+<h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h5>
 <h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
 <h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
 <h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
