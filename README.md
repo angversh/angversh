@@ -63,6 +63,20 @@ I aspire to create an app in Unreal Engine 5. I have been practicing in creating
 ---
 
 Genius lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. I can talk for hours about the technologies behind GTA V, Cyberpunk, FarCry and Red Dead Redemption II. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tincoff Fintex and many other schools broaden my IT horizons even more.
+
+
+---
+&nbsp;
+	
+<h2 align="center">Follow me:</h2> 
+	
+<p align='center'>
+<a href="https://vk.com/angversh"><img height="43" src="https://static.tildacdn.com/tild3933-3631-4335-a238-643232363633/iconfinder-icon_2.svg"></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/@angversh"><img height="42" src="https://static.tildacdn.com/tild6238-3631-4931-a262-666332343932/1_DG5eBssbHsAyh_RtTR.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/angversh/"><img height="40" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png"></a>&nbsp;&nbsp;
+<a href="https://hyperskill.org/profile/173367736"><img height="41" src="https://static10.tgstat.ru/channels/_0/d5/d51b9f513c85b8aa0b0401c391bce4df.jpg"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="41" src="https://preview.keenthemes.com/rider-html-pro/assets/media/svg/brand-logos/dribbble-icon-1.svg"></a>
+</p>	
 </body>
-</html>
+
 
