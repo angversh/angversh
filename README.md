@@ -52,7 +52,7 @@ I aspire to create an app in Unreal Engine 5. I have been practicing in creating
 ### Aspiration:
 ---
 
-Genius lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. I can talk for hours about the technologies behind GTA V, Cyberpunk, FarCry and Red Dead Redemption II. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tinkoff Fintex and many other schools broaden my IT horizons even more.
+Genius lies in simplicity — I thirst for making an impact on Game Development. Being a huge fan of game experience myself I would love to make something astonishing and highly memorable. I can talk for hours about the technologies behind GTA V, Cyberpunk, FarCry and Red Dead Redemption II. Constant learning in International Winter School on Software Engineering, JetBrains Academy, Tinkoff Fintex and many other schools broadens my IT horizons even more.
 
 
 ---
