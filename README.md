@@ -35,10 +35,9 @@ Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
 
 ### Ideology:
 
-Write clean codes. Period. A clean code always looks like it was written by sb who cares. As developers, we have to make sure that it's readable so that others could maintain our modules. So here are my 3 clean code postulates:
-	1. Clean code is simple and direct, and it reads like well-written prose.
-	2. The only way to go fast is to go slow.
-	3. Clean code does one thing well.
+Write clean codes. Period. As developers, we have to make sure that it's readable so that others could maintain our modules. So, here are my 3 clean code postulates:
+
+*<li>Clean code is simple and direct, and it reads like well-written prose.</li> <li>The only way to go fast is to go slow.</li> <li>A clean code always looks like it was written by someone who cares.</li>*
 
 ---
 <p><img align="right" alt="GIF" width="360" height="170" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true"></p>
