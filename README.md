@@ -6,6 +6,8 @@
 
 <h3>Hey yo, I'm a passionate Junior Java & Game Developer.</h3>
 
+<h1></h1>
+
 <h3>Working on:</h3>
 
 <h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h5>
