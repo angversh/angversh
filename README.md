@@ -10,7 +10,7 @@
 
 <h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h5>
 <h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
-<h5> &emsp;&ensp;•&emsp; Developing Games in Java 👾</h5>
+<h5> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h5>
 <h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
 <!-- <h5> &emsp;&ensp;&emsp;</h5> -->
 
