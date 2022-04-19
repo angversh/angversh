@@ -11,9 +11,11 @@
 <h3>Working on:</h3>
 
 <h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h5>
-<h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
 <h5> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h5>
-<h5> &emsp;&ensp;•&emsp; Creating GREAT designs! ⚡</h5>
+<h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
+<h5> &emsp;&ensp;•&emsp; R&D "Gender and Age politics in Game Development" 🎮</h5>
+<h5> &emsp;&ensp;•&emsp; Creating MESMERIZING designs! 🌑</h5>
+
 <!-- <h5> &emsp;&ensp;&emsp;</h5> -->
 
 
