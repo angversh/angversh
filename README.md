@@ -61,7 +61,8 @@ Genius lies in simplicity — I thirst for making an impact on Game Development.
 
 ---
 &nbsp;
-	
+<!-- <p align="center"><img src="https://i.giphy.com/media/5mlXCTjRtf9N6/giphy.webp" width="400" height="250"/></p>-->
+
 <h2 align="center">Follow me:</h2> 
 	
 <p align='center'><a href="https://vk.com/angversh"><img height="43" src="https://static.tildacdn.com/tild3933-3631-4335-a238-643232363633/iconfinder-icon_2.svg"></a>&nbsp;&nbsp;
