@@ -12,7 +12,7 @@
 
 <h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h5>
 <h5> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h5>
-<h5> &emsp;&ensp;•&emsp; Refactoring Personal Website 🖥️ </h5>
+<h5> &emsp;&ensp;•&emsp; Taking part in 'HSE Startup cup' 🏆</h5>
 <h5> &emsp;&ensp;•&emsp; R&D 'Beyond Glass Ceiling: Game Development' 🎮</h5>
 <h5> &emsp;&ensp;•&emsp; Creating MESMERIZING designs! 🌑</h5>
 
