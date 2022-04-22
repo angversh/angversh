@@ -10,14 +10,12 @@
 
 <h3>Working on:</h3>
 
-<h5> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h5>
-<h5> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h5>
-<h5> &emsp;&ensp;•&emsp; Taking part in 'HSE Startup cup' 🏆</h5>
-<h5> &emsp;&ensp;•&emsp; R&D 'Beyond Glass Ceiling: Game Development' 🎮</h5>
-<h5> &emsp;&ensp;•&emsp; Creating MESMERIZING designs! 🌑</h5>
-
-<!-- <h5> &emsp;&ensp;&emsp;</h5> -->
-
+<h4> &emsp;&ensp;•&emsp; Particpating in Tinkoff Lab. RL Event 💸</h4>
+<h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
+<h4> &emsp;&ensp;•&emsp; Taking part in 'HSE Startup cup' 🏆</h4>
+<h4> &emsp;&ensp;•&emsp; R&D 'Beyond Glass Ceiling: Game Development' 🎮</h4>
+<h4> &emsp;&ensp;•&emsp; Creating MESMERIZING designs! 🌑</h4>
+&nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats)
 <!-- 
