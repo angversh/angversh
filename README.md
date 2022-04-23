@@ -62,7 +62,7 @@ Genius lies in simplicity — I thirst for making an impact on Game Development.
 <a href="https://www.figma.com/@angversh"><img height="42" src="https://static.tildacdn.com/tild6238-3631-4931-a262-666332343932/1_DG5eBssbHsAyh_RtTR.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/angversh/"><img height="40" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png"></a>&nbsp;&nbsp;
 <a href="https://hyperskill.org/profile/173367736"><img height="41" src="https://static10.tgstat.ru/channels/_0/d5/d51b9f513c85b8aa0b0401c391bce4df.jpg"></a>
-<a href="https://colab.research.google.com/drive/1n4jbaP17KeWutcE3MzVpvY4xDuYmOtv4?usp=sharing"><img height="43" width="62" src="https://camo.githubusercontent.com/911a3d881bd46228e504fe8256fb2332ea792d222132dda9ecea6551a1f36252/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64302f476f6f676c655f436f6c61626f7261746f72795f5356475f4c6f676f2e7376672f3136303070782d476f6f676c655f436f6c61626f7261746f72795f5356475f4c6f676f2e7376672e706e67"></a>
+<a href="https://colab.research.google.com/drive/1n4jbaP17KeWutcE3MzVpvY4xDuYmOtv4?usp=sharing"><img height="43" width="63" src="https://camo.githubusercontent.com/911a3d881bd46228e504fe8256fb2332ea792d222132dda9ecea6551a1f36252/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64302f476f6f676c655f436f6c61626f7261746f72795f5356475f4c6f676f2e7376672f3136303070782d476f6f676c655f436f6c61626f7261746f72795f5356475f4c6f676f2e7376672e706e67"></a>
 <a href="https://dribbble.com/angversh"><img height="41" src="https://preview.keenthemes.com/rider-html-pro/assets/media/svg/brand-logos/dribbble-icon-1.svg"></a></p>
 
 
