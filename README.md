@@ -18,9 +18,6 @@
 &nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats)
-<!-- 
-![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff)
--->
 
 <h3>Articles about me:</h3> 
 
@@ -59,8 +56,6 @@ Genius lies in simplicity — I thirst for making an impact on Game Development.
 
 ---
 &nbsp;
-<!-- <p align="center"><img src="https://i.giphy.com/media/5mlXCTjRtf9N6/giphy.webp" width="400" height="250"/></p>-->
-
 <h2 align="center">Follow me:</h2> 
 	
 <p align='center'><a href="https://vk.com/angversh"><img height="43" src="https://static.tildacdn.com/tild3933-3631-4335-a238-643232363633/iconfinder-icon_2.svg"></a>&nbsp;&nbsp;
@@ -68,3 +63,7 @@ Genius lies in simplicity — I thirst for making an impact on Game Development.
 <a href="https://www.instagram.com/angversh/"><img height="40" src="https://logos-download.com/wp-content/uploads/2016/03/Instagram_inverted_variant_Logo_2016.png"></a>&nbsp;&nbsp;
 <a href="https://hyperskill.org/profile/173367736"><img height="41" src="https://static10.tgstat.ru/channels/_0/d5/d51b9f513c85b8aa0b0401c391bce4df.jpg"></a>
 <a href="https://dribbble.com/angversh"><img height="41" src="https://preview.keenthemes.com/rider-html-pro/assets/media/svg/brand-logos/dribbble-icon-1.svg"></a></p>
+
+<!-- 
+![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff)
+<p align="center"><img src="https://i.giphy.com/media/5mlXCTjRtf9N6/giphy.webp" width="400" height="250"/></p>-->
