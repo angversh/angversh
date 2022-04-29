@@ -10,9 +10,9 @@
 
 <h3>Working on:</h3>
 
-<h4> &emsp;&ensp;•&emsp; Participating in Tinkoff Lab. RL Event 💸</h4>
+<h4> &emsp;&ensp;•&emsp; Studying on a ‘Zero Semester’ course (Tinkoff) 💸</h4>
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
-<h4> &emsp;&ensp;•&emsp; Taking part in 'HSE Startup cup' 🎲</h4>
+<h4> &emsp;&ensp;•&emsp; Taking part in ‘HSE Startup cup’ 🎲</h4>
 <h4> &emsp;&ensp;•&emsp; R&D "Beyond Glass Ceiling: Game Development" 🎮</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
 &nbsp;
