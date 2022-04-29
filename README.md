@@ -13,11 +13,11 @@
 <h4> &emsp;&ensp;•&emsp; Studying on a ‘Zero Semester’ course (Tinkoff) 💸</h4>
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
 <h4> &emsp;&ensp;•&emsp; Taking part in ‘HSE Startup cup’ 🎲</h4>
-<h4> &emsp;&ensp;•&emsp; R&D "Beyond Glass Ceiling: Game Development" 🎮</h4>
+<h4> &emsp;&ensp;•&emsp; R&D "Beyond Glass Ceiling: Game Development" DONE 🎮</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats) ![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff)
 
 <h3>Articles about me:</h3> 
 
@@ -65,7 +65,4 @@ Genius lies in simplicity — I thirst for making an impact on Game Development.
 <a href="https://colab.research.google.com/drive/1n4jbaP17KeWutcE3MzVpvY4xDuYmOtv4?usp=sharing"><img height="43" width="63" src="https://camo.githubusercontent.com/911a3d881bd46228e504fe8256fb2332ea792d222132dda9ecea6551a1f36252/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64302f476f6f676c655f436f6c61626f7261746f72795f5356475f4c6f676f2e7376672f3136303070782d476f6f676c655f436f6c61626f7261746f72795f5356475f4c6f676f2e7376672e706e67"></a>
 <a href="https://dribbble.com/angversh"><img height="41" src="https://preview.keenthemes.com/rider-html-pro/assets/media/svg/brand-logos/dribbble-icon-1.svg"></a></p>
 
-
-<!-- 
-![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff)
-<p align="center"><img src="https://i.giphy.com/media/5mlXCTjRtf9N6/giphy.webp" width="400" height="250"/></p>-->
+<!--<p align="center"><img src="https://i.giphy.com/media/5mlXCTjRtf9N6/giphy.webp" width="400" height="250"/></p>-->
