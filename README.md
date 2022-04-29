@@ -8,7 +8,7 @@
 
 <h1></h1>
 
-<h3>Working on:</h3>
+<h3>Current activity:</h3>
 
 <h4> &emsp;&ensp;•&emsp; Studying on a ‘Zero Semester’ course (Tinkoff) 💸</h4>
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
