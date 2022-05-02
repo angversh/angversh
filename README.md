@@ -14,6 +14,7 @@
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
 <h4> &emsp;&ensp;•&emsp; Taking part in ‘HSE Startup cup’ 🎲</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
+<h4> &emsp;&ensp;•&emsp; FINISHING PERSONAL WEBSITE 💕</h4>
 &nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats) ![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff)
