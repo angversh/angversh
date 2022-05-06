@@ -10,7 +10,6 @@
 
 <h3>Current activity:</h3>
 
-<h4> &emsp;&ensp;•&emsp; Studying on a ‘Zero Semester’ course (Tinkoff) 💸</h4>
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
 <h4> &emsp;&ensp;•&emsp; Taking part in ‘HSE Startup cup’ 🎲</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
