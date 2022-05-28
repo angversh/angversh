@@ -11,22 +11,24 @@
 <h3>Current activity:</h3>
 
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
-<h4> &emsp;&ensp;•&emsp; Taking part in ‘HSE Startup cup’ 🎲</h4>
+<h4> &emsp;&ensp;•&emsp; Studies, Studies, Studies 📔</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats) ![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff)
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats) ![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff) 
+-->
 
 <h3>Articles about me:</h3> 
 
 <p>&emsp;&ensp;•&emsp;<a href="https://nnov.hse.ru/human/linguistics/news/575948585.html"> HSE Student conference "Young Researchers in Science: Challenges and Prospects"</a></p>
 <p style="color: #b33df1">&emsp;&ensp;•&emsp;<a href="https://www.hse.ru/en/news/edu/567784203.html">HSE Faculty of Computer Science Organises Its First Software Engineering Winter School</a></p>
 
-<h1></h1>
+<!-- <h1></h1>
 										  										  
-Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding.
+Exactly! Who am I? Do we live in a simulation? Hahaha, just kidding. -->
 
-<p><img align="left" alt="GIF" width="360" height="200" src="https://github.com/angversh/angversh/blob/main/amazedcutie.gif?raw=true"></p> 
+<!-- <p><img align="left" alt="GIF" width="360" height="200" src="https://github.com/angversh/angversh/blob/main/amazedcutie.gif?raw=true"></p> -->
 
 ---
 
@@ -37,14 +39,14 @@ Write clean codes. Period. As developers, we have to make sure that it's readabl
 *<li>Clean code is simple and direct, and it reads like well-written prose.</li> <li>The only way to go fast is to go slow.</li> <li>A clean code always looks like it was written by someone who cares.</li>*
 
 ---
-<p><img align="right" alt="GIF" width="360" height="170" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true"></p>
+<!-- <p><img align="right" alt="GIF" width="360" height="170" src="https://github.com/angversh/angversh/blob/main/designer.gif?raw=true"></p> -->
 
 ### Future Goals:
 
 I aspire to create an app in Unreal Engine 5. I have been practicing in creating 3D models in UE5 Early Access and in Blender for a year and considering creating a game in Cyberpunk style. It requires advanced skills in C++, so that is what I pour my heart and soul into. As Albert Einstein once said: “Imagination is more important than knowledge”, I do my best in making creative and recognizable projects (Fun Fact: I'm a Graphic Designer too).
 
 ---
-<p><img align="left" alt="GIF" width="300" height="250" src="https://github.com/angversh/angversh/blob/main/grinningbaddy.gif?raw=true"></p>
+<!-- <p><img align="left" alt="GIF" width="300" height="250" src="https://github.com/angversh/angversh/blob/main/grinningbaddy.gif?raw=true"></p> -->
 
 ### Aspiration:
 ---
@@ -53,8 +55,8 @@ Genius lies in simplicity — I thirst for making an impact on Game Development.
 
 
 ---
-&nbsp;
-<h2 align="center">Hit me on:</h2> 
+<!-- &nbsp;
+<h2 align="center">Hit me on:</h2> -->
 	
 <p align='center'><a href="https://www.figma.com/@angversh"><img height="42" src="https://static.tildacdn.com/tild6238-3631-4931-a262-666332343932/1_DG5eBssbHsAyh_RtTR.png"></a>&nbsp;&nbsp;
 <a href="https://vk.com/angversh"><img height="43" src="https://static.tildacdn.com/tild3933-3631-4335-a238-643232363633/iconfinder-icon_2.svg"></a>&nbsp;&nbsp;
