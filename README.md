@@ -7,13 +7,13 @@
 <h3>Hey yo, I'm a passionate Junior Java & Game Developer</h3>
 
 <h1></h1>
-
+<!-- 
 <h3>Current activity:</h3>
 
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
 <h4> &emsp;&ensp;•&emsp; 24/7 STUDIES 📔</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
-&nbsp;
+&nbsp; -->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angversh&hide_border=true&stroke=fff&sideNums=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff&sideLabels=fd6dab&background=0d1117&fire=fd6dab&ring=fd6dab)](https://git.io/streak-stats) ![Angversh's GitHub stats](https://github-readme-stats.vercel.app/api?username=angversh&show_icons=false&hide=contribs,prs&cache_seconds=86400&border_color=0d1117&bg_color=0d1117&title_color=fd6dab&text_color=fff) 
