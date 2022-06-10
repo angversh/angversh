@@ -11,7 +11,7 @@
 <h3>Current activity:</h3>
 
 <h4> &emsp;&ensp;•&emsp; Preparing for R&D Publication 📑</h4>
-<h4> &emsp;&ensp;•&emsp; Studies, Studies, Studies 📔</h4>
+<h4> &emsp;&ensp;•&emsp; 24/7 STUDIES 📔</h4>
 <h4> &emsp;&ensp;•&emsp; Creating mesmerizing designs! 🌑</h4>
 &nbsp;
 
