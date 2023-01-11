@@ -6,7 +6,7 @@
 
 <h3>Articles:</h3> 
 
-<p>&emsp;&ensp;•&emsp;<a href="https://www.hse.ru/en/news/edu/567784203.html">HSE Students have created a Mobile App to measure Stress Levels ⚕️</a></p>
+<p>&emsp;&ensp;•&emsp;<a href="https://nnov.hse.ru/news/799347333.html">HSE Students have created a Mobile App to measure Stress Levels ⚕️</a></p>
 <p>&emsp;&ensp;•&emsp;<a href="https://nnov.hse.ru/human/linguistics/news/575948585.html">HSE Student conference "Young Researchers in Science: Challenges and Prospects" 📄</a></p>
 <p>&emsp;&ensp;•&emsp;<a href="https://www.hse.ru/en/news/edu/567784203.html">HSE Faculty of Computer Science Organises its First Software Engineering Winter School 💻</a></p>
 
